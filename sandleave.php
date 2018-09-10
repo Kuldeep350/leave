@@ -9,7 +9,8 @@ input { padding:5px; border:1px solid #999; border-radius:4px; -moz-border-radiu
 </style>
 </head>
 <body>
-  <form action="" method="post">
+  <h>Kuldeep Singh</h>
+    <form action="" method="post">
   	<div id="InputsWrapper">
   		<div><input type="text" name="mytext[]" id="field_1" value=""><a href="#" class="removeclass"></a></div>
   	</div>
