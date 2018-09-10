@@ -36,6 +36,7 @@ form{
 <div class="col-xs-3" id="a">
 <form class="form-horizontal" method="post" onsubmit="return validateForm()" name="myForm" id="form" onSubmit="if(!confirm('Is the form filled out correctly?')){return false;}">
 <div>
+        <h2 > hello my frindes</h2>
 								<h1>Request for Leave</h1>
 							<p>Request your leave details down below.</p>
 						<div class="form-group">
