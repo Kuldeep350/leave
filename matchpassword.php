@@ -33,7 +33,7 @@ margin-top:5%;
         width: 100%;
  }
 </style>
-
+    <h>hello</h>
     <title> Password and Confirm Password Validation Using Jquery </title>
     <script type="text/javascript" src="http://www.technicalkeeda.com/js/javascripts/plugin/jquery.js"></script>
     <script type="text/javascript" src="http://www.technicalkeeda.com/js/javascripts/plugin/jquery.validate.js"></script>
